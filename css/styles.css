@@ -4055,6 +4055,7 @@ textarea.form-control-lg {
   display: flex;
   flex-direction: column;
   padding-left: 0;
+  padding-right: 2%;
   margin-bottom: 0;
   list-style: none;
 }
@@ -4078,7 +4079,6 @@ textarea.form-control-lg {
 }
 
 .navbar-toggler {
-  padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
   line-height: 1;
   background-color: transparent;
@@ -11291,7 +11291,7 @@ p {
   padding: 6rem 0;
 }
 .page-section h2.section-heading, .page-section .section-heading.h2 {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   margin-top: 0;
   margin-bottom: 1rem;
 }
