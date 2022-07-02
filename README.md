@@ -1,2 +1,2 @@
 <h1 align="center">Projeto Contos</h1>
-<p align="center"><a href="https://projects-gustavo.github.io/Projeto_Contos/">Clique aqui</a></p>
+<p align="center"><a href="https://projects-gustavo.github.io/projeto-contos/">Clique aqui</a></p>
